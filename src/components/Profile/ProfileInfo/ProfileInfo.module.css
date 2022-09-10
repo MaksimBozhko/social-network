@@ -1,0 +1,8 @@
+.description {
+    padding: 10px;
+}
+.photo {
+    weight: 140px;
+    height: 100px;
+    border-radius: 20%;
+}
